@@ -26,7 +26,6 @@ El proyecto permite enviar una lista de números y un valor objetivo, y devuelve
 - [Ejemplos de respuesta](#ejemplos-de-respuesta)
 - [Pruebas](#pruebas)
 - [Detalles de implementación](#detalles-de-implementación)
-- [Autor](#autor)
 
 ---
 
